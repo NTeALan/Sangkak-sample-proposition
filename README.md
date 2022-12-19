@@ -1,2 +1,3 @@
-# CRF_LF-0.1
+# SCIA-CRF_LF
 Contextualize CRF and Linguistic based feature for NER detection in Ghomala
+
