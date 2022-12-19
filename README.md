@@ -1,3 +1,4 @@
-# SCIA-CRF_LF
+# Sangkak-sample-proposition
+
 Contextualize CRF and Linguistic based feature for NER detection in Ghomala
 
